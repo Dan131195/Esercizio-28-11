@@ -18,14 +18,14 @@ body {
   justify-content: center;
   align-content: center;
   padding-top: 50px;
-  max-height: 1000px;
-  max-width: 1700px;
+  max-height: 800px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .postit {
   flex-basis: 20%;
-  height: 300px;
+  height: 200px;
   box-shadow: 5px 5px 7px rgba(33, 33, 33, 0.7);
   margin: 25px;
   padding-left: 4%;
