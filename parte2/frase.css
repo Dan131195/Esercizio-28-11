@@ -64,10 +64,10 @@ body {
   15% {
     color: #6b969d;
     text-shadow: 1px 1px 1px rgba(146, 146, 146, 0.8);
-    top: -5px;
+    top: 0px;
   }
 
-  25% {
+  30% {
     color: transparent;
     text-shadow: none;
     top: 10px;
